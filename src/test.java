@@ -9,7 +9,7 @@ interface b extends a
 
 }
 
-
+test hello
 
 
 public class test {
